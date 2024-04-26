@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: space-module
+Version: 0.0.1
+Summary: Um simples pacote que adiciona a função space(int), onde int é um inteiro que vai ser quantos espaços vão ser adicionado
+Author: Pablo Gomes
+Author-email: <pablo.gs.p2gs@gmail.com>
+Keywords: python,first package
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3.11.5
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+para implementar use assim exemplo: print('esse é um exemplo', space(10), simples), esse é um pacote bem simples e leve
